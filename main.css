@@ -1,0 +1,7 @@
+#nav-view{
+    cursor:pointer;
+}
+
+#viewer *{
+    position: relative;
+}
